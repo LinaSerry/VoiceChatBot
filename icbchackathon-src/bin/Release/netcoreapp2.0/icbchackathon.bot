@@ -1,0 +1,50 @@
+{
+  "name": "icbchackathon",
+  "padlock": "fRvdYNSeJlTmK3rqjoH/Kw==!OhgkOcqgnsOoBWJz2rJKxMUhd1FTUdHnLEOXuepRm9Q/EzNJYgbMtF6IaZCzOtYU",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "3b5f552e-6fd1-4762-929c-5f328971d9d3",
+      "resourceGroup": "icbc",
+      "serviceName": "icbchackathon",
+      "type": "abs",
+      "name": "icbchackathon",
+      "id": "1"
+    },
+    {
+      "connectionString": "3teJ+Ix4LI581sDQ4JSHFw==!gYx/SfYC5Eu+pgeD6oESo5MPHjRBHjxNJjTGLXHiiAPNGn/zVUUquRRoiSRnk+pohsbVGA3avZct5Xwf0jtbN3MWfBShz735xk3dFL0gpCRf1ooSSyLYmh1LeXRrPgo/9mwGMNFoKSaxBbCyBQHKixL4bha2n9oZOQchANTLpr9ORHkBFA0nF9j0NYH18WutxnY0rOpsTV1qwfdapYqfKIlye19Zb4yzplnH8M0fH5U=",
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "3b5f552e-6fd1-4762-929c-5f328971d9d3",
+      "resourceGroup": "icbc",
+      "serviceName": "icbchackathonad75",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "9cd3f317-4c1c-40dc-a5cc-b9e1acb7f0ea",
+      "appPassword": "+eH6jDm0o6Zc71hcD4r23Q==!fcWkALCFpjFxM37fQ4a4CmADyRUt+AwXr1JiJfHHV2E=",
+      "endpoint": "https://icbchackathon.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "appId": "a3b32c3e-b39d-44d3-8bbd-651303de61e1",
+      "authoringKey": "7C57UJJOc767GpVzyBDQiA==!QafaKmsypb8Y/MQK2b/J+/0Enc1hZYTBEhqZSEngS39YXzF13YuGPPThxE+kq2et",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "5"
+    }
+  ]
+}
