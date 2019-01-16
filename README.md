@@ -17,3 +17,5 @@ PART 2: BUILD THE BOT
 2) After the bot is created navigate to the build section and click on Open online code editor
 3) Paste the contents of index.html into default.html file. 
 4) In the Azure Portal, Go To Channel and copy the secret 
+5) Go back to the resource group where the bot was created and click on the app Service plan. In the overview section there will be a url , click on that url to navigate to your bot and append ?=<SECRET COPIED IN STEP 4> to the url 
+6) your bot is now ready for testing
