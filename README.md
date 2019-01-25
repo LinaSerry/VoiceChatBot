@@ -21,9 +21,7 @@ PART 2: BUILD THE BOT
 
 ![alt text](https://icbclogo.blob.core.windows.net/icbc/channels.PNG)
 
-5) Go back to the resource group where the bot was created and click on the app Service plan. In the overview section there will be a url , click on that url to navigate to your bot and append ?=<SECRET COPIED IN STEP 4> to the url 
-
-for example if your URL is https://icbcbot-8b00.azurewebsites.net you would navigate to https://icbcbot-8b00.azurewebsites.net?=<SECRET>
+5) Go back to the resource group where the bot was created and click on the app Service plan. In the overview section there will be a url , click on that url to navigate to your bot and append ?=SECRET COPIED IN STEP 4 to the url,  for example if your URL is https://icbcbot-8b00.azurewebsites.net you would navigate to https://icbcbot-8b00.azurewebsites.net?=SECRET
 6) your bot is now ready for testing
 
 STRETCH GOAL PART 3: INTEGRATING LUIS
