@@ -27,5 +27,5 @@ PART 2: BUILD THE BOT
 STRETCH GOAL PART 3: INTEGRATING LUIS
 1) Luis is a Language Understanding (LUIS) cloud-based API service. Get familiar with Luis https://docs.microsoft.com/en-us/azure/cognitive-services/luis/what-is-luis
 
-2) Follow the following tutuorial to build a more complex bot, with several KBs, and add index.html to have the same front end experience. 
+2) Build a more complex bot, with several KBs, and add index.html to have the same front end experience, following this tutorial
 https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/tutorials/integrate-qnamaker-luis
