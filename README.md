@@ -1,6 +1,7 @@
 # VoiceChatBot
 
 PART 1 : CREATE KNOWLEDGE BASE
+Get familiar with Qna maker https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/overview/overview
 1) Navigate to https://www.qnamaker.ai/
 2) Click on Create Knowledge Base
 3) Click on Create a QnA service in Microsoft Azure, this will take you to the azure portal
