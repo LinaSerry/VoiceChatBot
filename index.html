@@ -16,7 +16,7 @@
     * userid, username = id (and optionally name) of bot user
     * botid, botname = id (and optionally name) of bot
   For example, if the Direct Line secret for your bot is xxxMySecret.xxx, then open the following URL in your browser
-  http://localhost:8000/index.html?s=L_TrPDaq8XE.fCsviLzGHGtVgBnFnOmo4CfMOcmaYsuOnprfZN6Dv0k
+  http://localhost:8000/index.html?s=P-sQcdsG1l4.xr8vSyZCiuj5T-9zaq_xDgmM3WbtZfQzfhaTaDYYVvk
   You have a few options to choose from for speech recognition. See definition of speechOptions in the following code,
   and uncomment the option you want to choose. 
   
@@ -53,7 +53,7 @@
 
 <img src = "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/First_West_Credit_Union_logo.svg/1024px-First_West_Credit_Union_logo.svg.png"  width="200" />
 		</br>
-      <h2>QnA Maker Bot</h2>
+      <h2>QnA Maker Informational Bot</h2>
       <p>
         This intelligent chatbot application demonstrates art-of-the-possible using Microsoft Azure services with QnA Maker, Azure Search, and cognitive services
       </p>
@@ -93,10 +93,10 @@
       // // Option 3: Cognitive Services speech recognition using API key (cross browser, speech priming support)
       //
       const speechOptions = {
-        speechRecognizer: new CognitiveServices.SpeechRecognizer({ subscriptionKey: '<key>' }),
+        speechRecognizer: new CognitiveServices.SpeechRecognizer({ subscriptionKey: '4447814bec3b46a8acca7567f8301869' }),
         speechSynthesizer: new CognitiveServices.SpeechSynthesizer({
           gender: CognitiveServices.SynthesisGender.Female,
-          subscriptionKey: '<speech-key>',
+          subscriptionKey: '4447814bec3b46a8acca7567f8301869',
           voiceName: 'Microsoft Server Speech Text to Speech Voice (en-US, JessaRUS)'
         })
       };
